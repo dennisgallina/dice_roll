@@ -1,6 +1,6 @@
-# dice_roll
+# Dice Roll with Flutter
 
-A new Flutter project.
+A simple app that simulating a dice roll.
 
 ## Getting Started
 
